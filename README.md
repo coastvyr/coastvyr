@@ -1,7 +1,7 @@
 # Hi, I'm Jack 👋
 
 I'm a Computer Science student with a focus in cybersecurity. 
-I'm passionate about network security, ethical hacking, and building secure software.
+I'm passionate about network security, ethical hacking, and building secure and useful software.
 
 ---
 
