@@ -8,8 +8,8 @@ I'm passionate about network security, ethical hacking, and building secure and 
 ### 🛠 Skills
 - **Languages:** JavaScript, Python
 - **Networking:** TCP/UDP, client-server model
-- **Interests:** Network security, penetration testing, secure software development
-- **Currently learning:** Ethical hacking and web security 
+- **Interests:** Network security, Penetration testing, Secure software development
+- **Currently learning:** Web security, data analysis, and ethical hacking
 
 ---
 
