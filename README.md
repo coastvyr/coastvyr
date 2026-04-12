@@ -1,14 +1,14 @@
 # Hi, I'm Jack 👋
 
-I'm a Computer Science student with a focus in cybersecurity. 
-I'm passionate about network security, ethical hacking, and building secure and useful software.
+I'm a Computer Science student with a focus in cybersecurity.
+I'm passionate about network security, digital defense, and building secure and useful software.
 
 ---
 
 ### 🛠 Skills
 - **Languages:** JavaScript, Python
 - **Networking:** TCP/UDP, client-server model
-- **Interests:** Network security, Penetration testing, Secure software development
+- **Interests:** Network security, penetration testing, secure software development
 - **Currently learning:** Web security, data analysis, and ethical hacking
 
 ---
