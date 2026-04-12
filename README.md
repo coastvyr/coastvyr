@@ -14,7 +14,7 @@ I'm passionate about network security, ethical hacking, and building secure soft
 ---
 
 ### 🚀 Projects
-- **[Shopping List App]()** — Command-line app that checks your pantry and tells you what groceries you still need to buy
+- **[Shopping List App](https://github.com/coastvyr/shopping-list)** — Command-line app that checks your pantry and tells you what groceries you still need to buy
 
 ---
 
