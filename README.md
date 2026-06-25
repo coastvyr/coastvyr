@@ -1,4 +1,4 @@
-# Hi, I'm Jack 👋
+# Hi, I'm Jack 
 
 I'm a Computer Science student with a focus in cybersecurity.
 I'm passionate about network security, digital defense, and building secure and useful software.
